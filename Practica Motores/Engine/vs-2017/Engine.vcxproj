@@ -97,6 +97,10 @@
     <ClInclude Include="..\code\headers\internal\declarations.hpp" />
     <ClInclude Include="..\code\headers\Kernel.hpp" />
     <ClInclude Include="..\code\headers\Module.hpp" />
+    <ClInclude Include="..\code\headers\Module_Factory.hpp" />
+    <ClInclude Include="..\code\headers\Render_Component.hpp" />
+    <ClInclude Include="..\code\headers\Render_Module.hpp" />
+    <ClInclude Include="..\code\headers\Render_Module_Factory.hpp" />
     <ClInclude Include="..\code\headers\Scene.hpp" />
     <ClInclude Include="..\code\headers\Task.hpp" />
     <ClInclude Include="..\code\headers\Timer.hpp" />
